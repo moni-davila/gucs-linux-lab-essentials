@@ -1,4 +1,4 @@
-# GUCS Lab #3
+# GUCS Linux Lab Essentials
 
 <img width="200" height="200" alt="443B9154-E26C-4F3F-9AE2-D0C387339F41" src="https://github.com/user-attachments/assets/ad47e5bc-fb20-4f39-9c4d-903719e1a970" />
 
