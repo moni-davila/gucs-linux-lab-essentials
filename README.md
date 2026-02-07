@@ -14,3 +14,6 @@ Linux is everywhere in cybersecurity — from servers to cloud environments to s
 - exercises → lab instructions
 - scripts → practice scripts
 - resources → cheat sheets & slides
+
+## Stop the Codespace After Class
+Bottom left → Codespaces → Stop
