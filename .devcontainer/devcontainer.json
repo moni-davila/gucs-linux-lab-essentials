@@ -1,0 +1,14 @@
+{
+  "name": "GUCS Lab #3 with Andrey Shakhzadyan",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {},
+  "postCreateCommand": "sudo apt update && sudo apt install -y htop tree net-tools curl wget nano vim git",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools",
+        "github.vscode-pull-request-github"
+      ]
+    }
+  }
+}
