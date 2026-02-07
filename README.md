@@ -1,4 +1,4 @@
-# gucs-linux-lab-essentials
+# gucs-lab-#3-linux-essentials
 Linux is everywhere in cybersecurity — from servers to cloud environments to security tooling. In this hands-on lab, you’ll learn essential Linux commands, navigation, and workflows that every cyber professional should know. Perfect for beginners or anyone who wants a confidence boost in the terminal.
 ## How to Start
 1. Click the green "Code" button
