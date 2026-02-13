@@ -1,1 +1,1 @@
-Cheat sheets, PDFs, slides.
+Resources to find here after the lab.
