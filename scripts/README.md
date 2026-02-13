@@ -1,1 +1,0 @@
-Starter scripts go here.
